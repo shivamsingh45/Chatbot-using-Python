@@ -52,8 +52,8 @@
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We accept VISA, Mastercard , UPI and Paypal",
+        "We accept most major UPI and credit cards, and Paypal"
       ]
     },
     {
