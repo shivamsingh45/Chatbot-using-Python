@@ -1,1 +1,2 @@
-# Chatbot-using-Python
+# Chatbot-using-Python 
+1. create virtual environment
